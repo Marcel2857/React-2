@@ -1,0 +1,12 @@
+.amount {
+  font-size: 30px;
+  background-color: transparent;
+  color: rgb(0, 0, 0);
+  height: 50px;
+  border-radius: 7px;
+  border-color: rgb(0, 0, 0);
+}
+
+.amount::placeholder {
+  color: rgb(0, 0, 0);
+}
